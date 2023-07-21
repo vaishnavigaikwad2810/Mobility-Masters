@@ -1,3 +1,5 @@
+Created a online shopping website for accessories for disabled people. There are two module admin and user. Technologies used are DBMS , HTML , CSS , PHP , Mysql.
+
 Free Download Source Code "Mobility_Masters"
 
 FIRST Download
@@ -5,7 +7,6 @@ FIRST Download
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
 
 3. Download the zip file/ download winrar
 
